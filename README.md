@@ -105,20 +105,18 @@
 
 ## 👤 Developed By
 
-**Aditya BG**
+**Aditya BG**-3rd year CSE Student at DSCE
+mail-adityabg11@gmail.com
 
 ## 🖼️ UI Preview
 
-| Screenshot | Description |
-|------------|-------------|
-| ![UI 1](./ui1.png) | Login Page |
-| ![UI 2](./ui2.png) | Input Details |
-| ![UI 3](./ui3.png) | Risk Appetite Evaluation |
-| ![UI 4](./ui4.png) | Investment Summary with Graph |
-| ![UI 5](./ui5.png) | Query for High-Risk Users |
-| ![UI 6](./ui6.png) | Final Output Display |
+| Screenshot 
+|------------
+| ![UI 1](./ui1.png) 
+| ![UI 2](./ui2.png)
+| ![UI 3](./ui3.png)
+| ![UI 4](./ui4.png) 
+| ![UI 5](./ui5.png) 
+| ![UI 6](./ui6.png) | ER DIAGRAM |
 
 
-## 📜 License
-
-This project is for educational and learning purposes only. Use at your discretion.
